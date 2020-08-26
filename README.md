@@ -22,7 +22,8 @@ It's so bad that only magic can help!
 
 ### how does it work?
 makes the devices connected to the router believe that you are the router!
-example:
+<br>
+example:<br>
 <img width="400" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
 </p> 
 
