@@ -38,7 +38,7 @@ download the file, open the terminal with root and run with python3
 
 <hr>
 
-ps. if you don't know what you are doing use a virtual machine, in some states this software is illegal  #### es. "dictator state of china"
+ps. if you don't know what you are doing use a virtual machine, in some states this software is illegal <b>es. dictator state of china</b>
 
 
 <br>
