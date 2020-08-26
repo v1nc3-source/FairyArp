@@ -3,14 +3,14 @@
 ARP Spoofing is a method someone (such as a hacker) could use to redirect traffic from a computer through the hacker's computer and then to the internet. This allows the hacker to then read all traffic sent from or to the first computer. This will reveal passwords, credit card numbers, and other private information.
 <hr>
 
-<img width="700" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot.png?raw=true">
+<img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot.png?raw=true">
 </p> 
 
 It's so bad that only magic can help!
 <img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="300px">
 
 
-<img width="700" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot2.png.png?raw=true">
+<img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot2.png.png?raw=true">
 </p> 
 
 - written in python 🐍
