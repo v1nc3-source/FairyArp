@@ -23,7 +23,7 @@ It's so bad that only magic can help!
 ### how does it work?
 makes the devices connected to the router believe that you are the router!
 example:
-<img width="600" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
+<img width="300" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
 </p> 
 
 <hr>
