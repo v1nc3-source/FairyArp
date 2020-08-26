@@ -7,7 +7,6 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 </p> 
 
 It's so bad that only magic can help!
-<img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="300px">
 
 
 <img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot2.png.png?raw=true">
@@ -21,11 +20,21 @@ It's so bad that only magic can help!
 
 <hr>
 
+### how does it work?
+makes the devices connected to the router believe that you are the router!
+example:
+<img width="600" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
+</p> 
+
+<hr>
+
 ### installation:
 
 download the file, open the terminal and run with python3 
 
 ##### $ python3 FairyArp.py
+
+
 
 <hr>
 
