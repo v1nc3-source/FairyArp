@@ -31,13 +31,14 @@ example:<br>
 
 ### installation:
 
-download the file, open the terminal and run with python3 
+download the file, open the terminal with root and run with python3 
 
 ##### $ python3 FairyArp.py
 
 
-
 <hr>
+
+ps. if you don't know what you are doing use a virtual machine, in some states this software is illegal  #### es. "dictator state of china"
 
 
 <br>
