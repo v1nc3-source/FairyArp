@@ -36,7 +36,7 @@ download the file, open the terminal with root and run with python3
 <b>$ python3 FairyArp.py</b>
 
 ## video demostration <br>
-[![Everything Is AWESOME](https://img.youtube.com/vi/qQiAEKBOmUg/maxresdefault.jpg)](https://youtu.be/qQiAEKBOmUg "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/qQiAEKBOmUg/hqdefault.jpg)](https://youtu.be/qQiAEKBOmUg "Everything Is AWESOME")
 
 
 <hr>
