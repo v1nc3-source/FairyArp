@@ -6,7 +6,7 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 <img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot.png?raw=true">
 </p> 
 
-It's so bad that only magic can help!
+<b>It's so bad that only magic can help!</b>
 
 
 <img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot2.png.png?raw=true">
