@@ -15,7 +15,7 @@ It's so bad that only magic can help!
 - written in python 🐍
 - it's beautiful because it is
 - with hard coded shit 💩
-- great if you want to be expelled from your school 🏫
+- great if you want to piss off sysadmin 👩🏿‍💻
 - not fairy friendly 🧚
 
 <hr>
