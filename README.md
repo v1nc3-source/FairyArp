@@ -38,7 +38,7 @@ download the file, open the terminal with root and run with python3
 
 <hr>
 
-⚠️ ps. if you don't know what you are doing use a virtual machine, in some states this software is illegal <b>ex. dictator state of china</b>
+⚠️ ps. if you don't know what you are doing use a virtual machine, in some states this software is illegal <b>ex. dictator state of china</b><br>
 ⚠️ if you are angry with me for breaking your wifi:
 1 - you are a super HaXXor 
 2 - my ip address is 127.0.0.1 try to launch a dos attack, good luck!
