@@ -6,7 +6,7 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 </p> 
 
 It's so bad that only magic can help!
-<img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="500px">
+<img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="300px">
  
 with nice "graphics"
 
