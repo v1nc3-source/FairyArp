@@ -44,7 +44,7 @@ download the file, open the terminal with root and run with python3
 ⚠️ ps. if you don't know what you are doing use a virtual machine with NAS, in some states this software is illegal <b>ex. dictator state of china</b><br>
 ⚠️ if you are angry with me for breaking your wifi:<br>
 1 - you are a super pro hacka<br>
-2 - my ip address is 127.0.0.1 try to launch a dos attack, good luck! <3<br>
+2 - my ip address is 127.0.0.1 try to launch a dos attack, good luck!<br>
 <br>
 <img width="150" src="https://media.giphy.com/media/F4a3ugD96Xl28/giphy.gif">
 </p> 
