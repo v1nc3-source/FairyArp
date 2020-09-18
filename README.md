@@ -1,4 +1,4 @@
-# ThirdEye
+# FairyArp
 ### Another Arp spoofer, but with a cool fairy!
 ARP Spoofing is a method someone (such as a hacker) could use to redirect traffic from a computer through the hacker's computer and then to the internet. This allows the hacker to then read all traffic sent from or to the first computer. This will reveal passwords, credit card numbers, and other private information.
 <hr>
@@ -23,7 +23,7 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 ### how does it work?
 makes the devices connected to the router believe that you are the router!
 <br>
-example:<br>
+#### example:<br>
 <img width="400" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
 </p> 
 
@@ -31,7 +31,7 @@ example:<br>
 
 ## installation:
 
-download the file, open the terminal with root and run with python3 
+download the file, open the terminal with root, pray and run with python3 
 
 <b>$ python3 FairyArp.py</b>
 
@@ -43,8 +43,8 @@ download the file, open the terminal with root and run with python3
 
 ⚠️ ps. if you don't know what you are doing use a virtual machine with NAS, in some states this software is illegal <b>ex. dictator state of china</b><br>
 ⚠️ if you are angry with me for breaking your wifi:<br>
-1 - you are a super pro hacka<br>
-2 - my ip address is 184.29.183.44 try to launch a dos attack, good luck!<br>
+1 - you are a super pro lamer<br>
+2 - my ip address is 184.29.183.44<br>
 <br>
 <img width="150" src="https://media.giphy.com/media/F4a3ugD96Xl28/giphy.gif">
 </p> 
