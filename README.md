@@ -1,6 +1,6 @@
 # FairyArp
 ### Another Arp spoofer, but with a cool fairy!
-ARP Spoofing is a method someone (such as a hacker) could use to redirect traffic from a computer through the hacker's computer and then to the internet. This allows the hacker to then read all traffic sent from or to the first computer. This will reveal passwords, credit card numbers, and other private information.
+ARP Spoofing is a method someone (such as a hacker) could use to redirect traffic from a computer through the hacker's computer and then to the internet. This allows the hacker to then read all traffic sent from or to the first computer. This will reveal passwords, credit card numbers, and other private information. (http)
 <hr>
 
 <img width="600" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot.png?raw=true">
