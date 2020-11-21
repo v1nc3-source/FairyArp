@@ -45,7 +45,7 @@ by f4k3
 """, "blue"))
 time.sleep(0.5)
 
-gateway_ip = input("Set the victim host ip >> ")
+gateway_ip = input("Set the victim ip >> ")
 target_ip = input("Set the router ip >> ")
 time.sleep(0.5)
 print(colored("opening the potions!", "green"))
