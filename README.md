@@ -33,7 +33,7 @@ makes the devices connected to the router believe that you are the router!
 
 download the file, open the terminal with root, pray and run with python3 
 
-#### <b>$ python3 FairyArp.py</b>
+#### '$ python3 FairyArp.py'
 
 ## video demostration <br>
 [![Everything Is AWESOME](https://img.youtube.com/vi/qQiAEKBOmUg/hqdefault.jpg)](https://youtu.be/qQiAEKBOmUg "Everything Is AWESOME")
