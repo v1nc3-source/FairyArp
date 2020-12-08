@@ -23,7 +23,7 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 ### how _should_ it work?
 makes the devices connected to the router believe that you are the router!
 <br>
-#### example:<br>
+### it works like this:<br>
 <img width="400" src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif">
 </p> 
 
@@ -41,7 +41,7 @@ download the file, open the terminal with root, pray and run with python3
 
 <hr>
 
-⚠️ ps. if you don't know what you are doing use a virtual machine with NAS, in some states this software is illegal <b>ex. dictator state of china</b><br>
+⚠️ ps. if you don't know what you are doing use a virtual machine with NAS, in some states this software is illegal <b>ex. dictator state of china.</b><br>
 
 <br>
 <img width="150" src="https://media.giphy.com/media/F4a3ugD96Xl28/giphy.gif">
