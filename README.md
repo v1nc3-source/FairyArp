@@ -44,7 +44,7 @@ download the file, open the terminal with root, pray and run with python3
 ⚠️ ps. if you don't know what you are doing use a virtual machine with NAS, in some states this software is illegal <b>ex. dictator state of china.</b><br>
 
 <br>
-<img width="150" src="https://media.giphy.com/media/F4a3ugD96Xl28/giphy.gif">
+<img width="300" src="https://raw.githubusercontent.com/v1nc3-source/FairyArp/master/bill.jpg">
 </p> 
 
 
