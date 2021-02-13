@@ -68,6 +68,30 @@ download the file, open the terminal with root, pray and run with python3
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img width="400" src="https://i.kym-cdn.com/photos/images/original/001/349/277/7b6.gif">
 </p> 
