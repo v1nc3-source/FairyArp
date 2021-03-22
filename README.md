@@ -12,11 +12,11 @@ ARP Spoofing is a method someone (such as a hacker) could use to redirect traffi
 <img width="400" src="https://github.com/v1nc3-source/FairyArp/blob/master/screenshot2.png.png?raw=true">
 </p> 
 
-- written in python 🐍
-- it's beautiful because it is
-- with hard coded shit 💩
-- great if you want to piss off sysadmin 👩🏿‍💻
-- not fairy friendly 🧚
+- Written in python 🐍
+- It's beautiful because it is
+- With hard coded shit 💩
+- Great if you want to piss off sysadmin 👩🏿‍💻
+- Not fairy friendly 🧚
 
 <hr>
 
